@@ -1,6 +1,6 @@
 {
   "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-03-06T20:42:45.252Z",
+  "generated": "2024-03-06T20:47:56.493Z",
   "metadata": [
     {
       "__outstatic": {
@@ -53,20 +53,20 @@
     },
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "/outstatic/content/posts/nothing-wrong.md"
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "/outstatic/content/posts/the-wrong-decision.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Naval Ravikant"
       },
       "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
       "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
+      "title": "If you want to make the wrong decision, ask everyone"
     },
     {
       "__outstatic": {
