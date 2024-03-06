@@ -1,16 +1,16 @@
 {
-  "commit": "59614d76084e157f9d76a92d504880422fa3e2d1",
-  "generated": "Wed, 06 Mar 2024 20:58:17 GMT",
+  "commit": "0f5c383556fe07c4b7d0f7de6cb68012a0a5a2bf",
+  "generated": "2024-03-06T21:04:12.216Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
+        "commit": "0f5c383556fe07c4b7d0f7de6cb68012a0a5a2bf",
+        "hash": "1705103978",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
+        "name": "Evandro Ribeiro",
+        "picture": "https://github.com/ribeiroevandro.png"
       },
       "collection": "pages",
       "coverImage": "",
