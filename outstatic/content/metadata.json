@@ -1,25 +1,7 @@
 {
-  "commit": "5a94009697c0b1c4e7cf4c64cd0d6166b0383ca8",
-  "generated": "Thu, 07 Mar 2024 04:05:53 GMT",
+  "commit": "a82d5c6e9aefef791dfa9756f8323ea64231f9e0",
+  "generated": "2024-03-07T04:09:21.699Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "b4b5d2016c88f7c18c5226e6120107b3d8b1ab87",
-        "hash": "1345506128",
-        "path": "outstatic/content/projects/devspace-work.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/cover-QwND.png",
-      "description": "Uma nova experiência ao buscar novas oportunidades",
-      "publishedAt": "2024-03-07T01:42:13.854Z",
-      "slug": "devspace-work",
-      "status": "draft",
-      "title": "DevSpace Work"
-    },
     {
       "__outstatic": {
         "commit": "d755f3a357261765b858f247f292eca02387072b",
