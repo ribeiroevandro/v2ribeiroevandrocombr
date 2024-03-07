@@ -1,25 +1,7 @@
 {
-  "commit": "809fe42eb03ecf7e8122fa2df5383b5be41c8a11",
-  "generated": "2024-03-07T04:20:58.498Z",
+  "commit": "cc93494b2e63ab9597270371c5f4b5dd08ab6598",
+  "generated": "2024-03-07T04:46:25.613Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "d755f3a357261765b858f247f292eca02387072b",
-        "hash": "1705103978",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://github.com/ribeiroevandro.png"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "809fe42eb03ecf7e8122fa2df5383b5be41c8a11",
@@ -40,6 +22,24 @@
       "startedIn": "01/04/2022",
       "status": "published",
       "title": "Vega Checkout"
+    },
+    {
+      "__outstatic": {
+        "commit": "cc93494b2e63ab9597270371c5f4b5dd08ab6598",
+        "hash": "1561799089",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://github.com/ribeiroevandro.png"
+      },
+      "collection": "pages",
+      "coverImage": "/images/cover-E4MD.png",
+      "description": "I'm a software developer, focusing on Frontend, I'm passionate about CSS, even though I get beaten up every day.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
