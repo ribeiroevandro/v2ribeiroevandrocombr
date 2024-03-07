@@ -1,6 +1,6 @@
 {
-  "commit": "0f5c383556fe07c4b7d0f7de6cb68012a0a5a2bf",
-  "generated": "2024-03-06T21:04:12.216Z",
+  "commit": "ad84be0139dbb1092da3a578e37326f15d7cf416",
+  "generated": "2024-03-07T02:01:03.312Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "ad84be0139dbb1092da3a578e37326f15d7cf416",
+        "hash": "2388361762",
+        "path": "outstatic/content/projects/devspace-work.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-07T01:42:13.854Z",
+      "slug": "devspace-work",
+      "status": "published",
+      "title": "DevSpace Work"
     }
   ]
 }
