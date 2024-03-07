@@ -3,17 +3,17 @@ import { Metadata } from 'next'
 import '../styles/index.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https:/ribeiroevandro.com.br'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'Evandro Ribeiro',
+    template: '%s | Evandro Ribeiro'
   },
-  description: 'A blog starter built with Outstatic.',
+  description: 'Sou desenvolvedor de software, com foco em Frontend, sou apaixonado por CSS.',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
+    title: 'Evandro Ribeiro - Sou desenvolvedor de software, com foco em Frontend, sou apaixonado por CSS.',
+    description: 'Sou desenvolvedor de software, com foco em Frontend, sou apaixonado por CSS.',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'Evandro Ribeiro',
     images: [
       {
         url: absoluteUrl('/images/og-image.png'),
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         height: 1600
       }
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website'
   },
   icons: {
