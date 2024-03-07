@@ -1,28 +1,10 @@
 {
-  "commit": "ad84be0139dbb1092da3a578e37326f15d7cf416",
-  "generated": "2024-03-07T02:01:03.312Z",
+  "commit": "632707ef84aa409b1d3acec246effce965c01574",
+  "generated": "Thu, 07 Mar 2024 02:02:36 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "0f5c383556fe07c4b7d0f7de6cb68012a0a5a2bf",
-        "hash": "1705103978",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://github.com/ribeiroevandro.png"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "ad84be0139dbb1092da3a578e37326f15d7cf416",
+        "commit": "cc7d312daa8216b3c83639372338c42839eb78e6",
         "hash": "2388361762",
         "path": "outstatic/content/projects/devspace-work.md"
       },
@@ -37,6 +19,24 @@
       "slug": "devspace-work",
       "status": "published",
       "title": "DevSpace Work"
+    },
+    {
+      "__outstatic": {
+        "commit": "d755f3a357261765b858f247f292eca02387072b",
+        "hash": "1705103978",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://github.com/ribeiroevandro.png"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
