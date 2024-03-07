@@ -1,6 +1,6 @@
 {
-  "commit": "a82d5c6e9aefef791dfa9756f8323ea64231f9e0",
-  "generated": "2024-03-07T04:09:21.699Z",
+  "commit": "809fe42eb03ecf7e8122fa2df5383b5be41c8a11",
+  "generated": "2024-03-07T04:20:58.498Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,27 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "809fe42eb03ecf7e8122fa2df5383b5be41c8a11",
+        "hash": "2175480411",
+        "path": "outstatic/content/resume/vega-checkout.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "cameOutIn": "",
+      "collection": "resume",
+      "company": "Vega Checkout",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-07T04:02:08.968Z",
+      "slug": "vega-checkout",
+      "startedIn": "01/04/2022",
+      "status": "published",
+      "title": "Vega Checkout"
     }
   ]
 }
