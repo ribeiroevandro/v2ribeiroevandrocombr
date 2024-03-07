@@ -1,0 +1,13 @@
+{
+  "title": "resume",
+  "type": "object",
+  "properties": {
+    "company": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "company"
+    }
+  }
+}
