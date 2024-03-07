@@ -15,6 +15,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "started in"
+    },
+    "cameOutIn": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Came out in"
     }
   }
 }
