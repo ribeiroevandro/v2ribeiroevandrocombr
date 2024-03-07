@@ -6,9 +6,14 @@ import markdownToHtml from '../lib/markdownToHtml'
 export default async function Index() {
   const { content, allPosts, allProjects } = await getData()
 
+  const hasProject = allProjects.length !== 0
+  const hasPosts = allPosts.length !== 0
+
+  const hasProjectOrPosts = hasPosts || hasProject ? 'max-w-6xl mx-auto px-5' : 'max-w-6xl grid place-items-center h-screen mx-auto px-5'
+
   return (
     <Layout>
-      <div className="max-w-6xl mx-auto px-5">
+      <div className={hasProjectOrPosts}>
         <section className="mt-16 mb-16 md:mb-12">
           <div
             className="prose lg:prose-2xl home-intro"
