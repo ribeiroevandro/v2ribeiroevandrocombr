@@ -1,6 +1,6 @@
 {
-  "commit": "cc93494b2e63ab9597270371c5f4b5dd08ab6598",
-  "generated": "2024-03-07T04:46:25.613Z",
+  "commit": "12533bb270490e6782b910e74d2b197a6b303dcc",
+  "generated": "2024-03-09T09:45:51.972Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,6 +40,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "12533bb270490e6782b910e74d2b197a6b303dcc",
+        "hash": "3800692804",
+        "path": "outstatic/content/pages/sobre.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-09T09:27:24.620Z",
+      "slug": "sobre",
+      "status": "published",
+      "title": "Sobre"
     }
   ]
 }
