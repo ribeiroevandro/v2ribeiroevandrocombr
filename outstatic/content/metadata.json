@@ -1,10 +1,28 @@
 {
-  "commit": "12533bb270490e6782b910e74d2b197a6b303dcc",
-  "generated": "2024-03-09T09:45:51.972Z",
+  "commit": "60c97b9247f3f308894ddb9d07769c39deec7753",
+  "generated": "Sat, 09 Mar 2024 09:47:14 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "809fe42eb03ecf7e8122fa2df5383b5be41c8a11",
+        "commit": "7398fe38f62f80df843f67b742496e70ee5e00b7",
+        "hash": "3800692804",
+        "path": "outstatic/content/pages/sobre.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-09T09:27:24.620Z",
+      "slug": "sobre",
+      "status": "published",
+      "title": "Sobre"
+    },
+    {
+      "__outstatic": {
+        "commit": "748c819e231e5f21647304e58154884883c42033",
         "hash": "2175480411",
         "path": "outstatic/content/resume/vega-checkout.md"
       },
@@ -25,7 +43,7 @@
     },
     {
       "__outstatic": {
-        "commit": "cc93494b2e63ab9597270371c5f4b5dd08ab6598",
+        "commit": "2c4b426b86e60c272f4abea71f8fff5e9ec41279",
         "hash": "1561799089",
         "path": "outstatic/content/pages/home.md"
       },
@@ -40,24 +58,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "12533bb270490e6782b910e74d2b197a6b303dcc",
-        "hash": "3800692804",
-        "path": "outstatic/content/pages/sobre.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-09T09:27:24.620Z",
-      "slug": "sobre",
-      "status": "published",
-      "title": "Sobre"
     }
   ]
 }
