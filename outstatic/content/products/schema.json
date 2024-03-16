@@ -1,0 +1,13 @@
+{
+  "title": "products",
+  "type": "object",
+  "properties": {
+    "marca": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Marca"
+    }
+  }
+}
