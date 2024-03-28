@@ -1,0 +1,13 @@
+{
+  "title": "work",
+  "type": "object",
+  "properties": {
+    "startDate": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Start date"
+    }
+  }
+}
