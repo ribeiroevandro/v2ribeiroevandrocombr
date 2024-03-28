@@ -1,6 +1,6 @@
 {
-  "commit": "b6ec77925644a4312de2650d4a342d5dfe59fe2b",
-  "generated": "2024-03-28T00:50:12.170Z",
+  "commit": "c322468c859573f9cef2fbb8a58e98ca3895e96e",
+  "generated": "2024-03-28T01:03:55.642Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,8 +40,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b6ec77925644a4312de2650d4a342d5dfe59fe2b",
-        "hash": "2272783636",
+        "commit": "c322468c859573f9cef2fbb8a58e98ca3895e96e",
+        "hash": "2240177070",
         "path": "outstatic/content/work/vega-checkout.md"
       },
       "author": {
@@ -51,7 +51,7 @@
       "collection": "work",
       "companyName": "",
       "coverImage": "/images/screenshot-2024-03-27-at-21.49.10-Y1OT.png",
-      "description": "",
+      "description": "Mobile developer",
       "endDate": "",
       "publishedAt": "2024-03-28T00:29:11.749Z",
       "slug": "vega-checkout",
