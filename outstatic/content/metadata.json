@@ -1,6 +1,6 @@
 {
-  "commit": "6e5d6447ed6df9f0d28822f78ebc1f3b52ffe7c5",
-  "generated": "2024-04-04T05:39:25.668Z",
+  "commit": "106c0a2a9669a586a7e280e35725c6910e987b3f",
+  "generated": "2024-04-04T05:45:08.871Z",
   "metadata": [
     {
       "__outstatic": {
@@ -61,8 +61,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6e5d6447ed6df9f0d28822f78ebc1f3b52ffe7c5",
-        "hash": "3148748108",
+        "commit": "106c0a2a9669a586a7e280e35725c6910e987b3f",
+        "hash": "3634189896",
         "path": "outstatic/content/devespace-api/react-brasil.md"
       },
       "author": {
@@ -70,7 +70,7 @@
         "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
       },
       "collection": "devespace-api",
-      "coverImage": "https://devspaceapp.work/img/avatares/react_avatar.png",
+      "coverImage": "/images/react_avatar-M1Mj.png",
       "description": "",
       "githubUrl": "https://github.com/react-brasil/vagas/",
       "publishedAt": "2024-04-04T05:19:13.443Z",
