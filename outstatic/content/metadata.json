@@ -1,6 +1,6 @@
 {
-  "commit": "c322468c859573f9cef2fbb8a58e98ca3895e96e",
-  "generated": "2024-03-28T01:03:55.642Z",
+  "commit": "6e5d6447ed6df9f0d28822f78ebc1f3b52ffe7c5",
+  "generated": "2024-04-04T05:39:25.668Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,6 +58,25 @@
       "startDate": "04/2022",
       "status": "published",
       "title": "Vega Checkout"
+    },
+    {
+      "__outstatic": {
+        "commit": "6e5d6447ed6df9f0d28822f78ebc1f3b52ffe7c5",
+        "hash": "3148748108",
+        "path": "outstatic/content/devespace-api/react-brasil.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "https://devspaceapp.work/img/avatares/react_avatar.png",
+      "description": "",
+      "githubUrl": "https://github.com/react-brasil/vagas/",
+      "publishedAt": "2024-04-04T05:19:13.443Z",
+      "slug": "react-brasil",
+      "status": "published",
+      "title": "React Brasil"
     }
   ]
 }
