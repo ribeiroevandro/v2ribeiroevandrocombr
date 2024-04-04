@@ -1,6 +1,6 @@
 {
-  "commit": "63b2c11d80b9810b928e52f3d1f5b799db75b8c0",
-  "generated": "2024-04-04T05:52:13.741Z",
+  "commit": "81e3e50a51f206736d75251d147a170e19448c02",
+  "generated": "2024-04-04T05:53:04.955Z",
   "metadata": [
     {
       "__outstatic": {
@@ -134,6 +134,25 @@
       "slug": "back-end-brasil",
       "status": "published",
       "title": "Back-End Brasil"
+    },
+    {
+      "__outstatic": {
+        "commit": "81e3e50a51f206736d75251d147a170e19448c02",
+        "hash": "588012368",
+        "path": "outstatic/content/devespace-api/php-dev-brasil.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/php_avatar-UzMj.png",
+      "description": "",
+      "githubUrl": "https://github.com/phpdevbr/vagas/",
+      "publishedAt": "2024-04-04T05:34:33.191Z",
+      "slug": "php-dev-brasil",
+      "status": "published",
+      "title": "PHP DEV BRASIL"
     }
   ]
 }
