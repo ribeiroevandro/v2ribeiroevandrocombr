@@ -6,12 +6,10 @@ export async function GET() {
   const db = await load()
 
   const allWorks = await db
-    .find({ collection: 'work' }, [
+    .find({ collection: 'devespace-api' }, [
       'title',
       'publishedAt',
-      'description',
       'slug',
-      'author',
       'content',
       'coverImage'
     ])
