@@ -2,7 +2,7 @@
 author:
   name: 'Evandro Ribeiro'
   picture: 'https://avatars.githubusercontent.com/u/943553?v=4'
-coverImage: 'https://devspaceapp.work/img/avatares/react_avatar.png'
+coverImage: '/images/react_avatar-M1Mj.png'
 title: 'React Brasil'
 status: 'published'
 slug: 'react-brasil'
