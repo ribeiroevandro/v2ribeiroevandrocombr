@@ -1,6 +1,6 @@
 {
-  "commit": "106c0a2a9669a586a7e280e35725c6910e987b3f",
-  "generated": "2024-04-04T05:45:08.871Z",
+  "commit": "cb5231ecac00c67fc22ab649d0600fe01fef9bd9",
+  "generated": "2024-04-04T05:53:50.285Z",
   "metadata": [
     {
       "__outstatic": {
@@ -77,6 +77,101 @@
       "slug": "react-brasil",
       "status": "published",
       "title": "React Brasil"
+    },
+    {
+      "__outstatic": {
+        "commit": "7322c81803ee96c494f6d7defd376589365e1672",
+        "hash": "1474393285",
+        "path": "outstatic/content/devespace-api/front-end-brasil.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/frontend_avatar-U3Mz.png",
+      "description": "",
+      "githubUrl": "https://github.com/frontendbr/vagas/",
+      "publishedAt": "2024-04-04T05:30:53.547Z",
+      "slug": "front-end-brasil",
+      "status": "published",
+      "title": "Front-end Brasil"
+    },
+    {
+      "__outstatic": {
+        "commit": "c7846b5d204e86f79b0731afed38e0f427b9fa86",
+        "hash": "3006882995",
+        "path": "outstatic/content/devespace-api/comunidade-brasileira-de-vue-js.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/vuejs_avatar-MyNT.jpeg",
+      "description": "",
+      "githubUrl": "https://github.com/vuejs-br/vagas/",
+      "publishedAt": "2024-04-04T05:32:25.717Z",
+      "slug": "comunidade-brasileira-de-vue-js",
+      "status": "published",
+      "title": "Comunidade Brasileira de Vue.js"
+    },
+    {
+      "__outstatic": {
+        "commit": "63b2c11d80b9810b928e52f3d1f5b799db75b8c0",
+        "hash": "3615347124",
+        "path": "outstatic/content/devespace-api/back-end-brasil.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/backend_avatar-U1Nj.png",
+      "description": "",
+      "githubUrl": "https://github.com/backend-br/vagas/",
+      "publishedAt": "2024-04-04T05:33:40.368Z",
+      "slug": "back-end-brasil",
+      "status": "published",
+      "title": "Back-End Brasil"
+    },
+    {
+      "__outstatic": {
+        "commit": "81e3e50a51f206736d75251d147a170e19448c02",
+        "hash": "588012368",
+        "path": "outstatic/content/devespace-api/php-dev-brasil.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/php_avatar-UzMj.png",
+      "description": "",
+      "githubUrl": "https://github.com/phpdevbr/vagas/",
+      "publishedAt": "2024-04-04T05:34:33.191Z",
+      "slug": "php-dev-brasil",
+      "status": "published",
+      "title": "PHP DEV BRASIL"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb5231ecac00c67fc22ab649d0600fe01fef9bd9",
+        "hash": "1981497906",
+        "path": "outstatic/content/devespace-api/flutter-br.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/flutter_avatar-I2NT.jpeg",
+      "description": "",
+      "githubUrl": "https://github.com/flutterbr/vagas/",
+      "publishedAt": "2024-04-04T05:35:19.224Z",
+      "slug": "flutter-br",
+      "status": "published",
+      "title": "Flutter BR"
     }
   ]
 }
