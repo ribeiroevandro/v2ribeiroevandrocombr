@@ -11,7 +11,8 @@ export async function GET() {
       'publishedAt',
       'slug',
       'content',
-      'coverImage'
+      'coverImage',
+      'githubUrl'
     ])
     .sort({ publishedAt: -1 })
     .toArray()
