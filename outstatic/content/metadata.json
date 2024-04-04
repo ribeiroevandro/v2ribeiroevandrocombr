@@ -1,6 +1,6 @@
 {
-  "commit": "81e3e50a51f206736d75251d147a170e19448c02",
-  "generated": "2024-04-04T05:53:04.955Z",
+  "commit": "cb5231ecac00c67fc22ab649d0600fe01fef9bd9",
+  "generated": "2024-04-04T05:53:50.285Z",
   "metadata": [
     {
       "__outstatic": {
@@ -153,6 +153,25 @@
       "slug": "php-dev-brasil",
       "status": "published",
       "title": "PHP DEV BRASIL"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb5231ecac00c67fc22ab649d0600fe01fef9bd9",
+        "hash": "1981497906",
+        "path": "outstatic/content/devespace-api/flutter-br.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/flutter_avatar-I2NT.jpeg",
+      "description": "",
+      "githubUrl": "https://github.com/flutterbr/vagas/",
+      "publishedAt": "2024-04-04T05:35:19.224Z",
+      "slug": "flutter-br",
+      "status": "published",
+      "title": "Flutter BR"
     }
   ]
 }
