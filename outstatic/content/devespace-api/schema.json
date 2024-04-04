@@ -1,0 +1,13 @@
+{
+  "title": "devespace-api",
+  "type": "object",
+  "properties": {
+    "githubUrl": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Github URL"
+    }
+  }
+}
