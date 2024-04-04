@@ -1,6 +1,6 @@
 {
-  "commit": "7322c81803ee96c494f6d7defd376589365e1672",
-  "generated": "2024-04-04T05:49:51.111Z",
+  "commit": "c7846b5d204e86f79b0731afed38e0f427b9fa86",
+  "generated": "2024-04-04T05:51:16.982Z",
   "metadata": [
     {
       "__outstatic": {
@@ -96,6 +96,25 @@
       "slug": "front-end-brasil",
       "status": "published",
       "title": "Front-end Brasil"
+    },
+    {
+      "__outstatic": {
+        "commit": "c7846b5d204e86f79b0731afed38e0f427b9fa86",
+        "hash": "3006882995",
+        "path": "outstatic/content/devespace-api/comunidade-brasileira-de-vue-js.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "devespace-api",
+      "coverImage": "/images/vuejs_avatar-MyNT.jpeg",
+      "description": "",
+      "githubUrl": "https://github.com/vuejs-br/vagas/",
+      "publishedAt": "2024-04-04T05:32:25.717Z",
+      "slug": "comunidade-brasileira-de-vue-js",
+      "status": "published",
+      "title": "Comunidade Brasileira de Vue.js"
     }
   ]
 }
