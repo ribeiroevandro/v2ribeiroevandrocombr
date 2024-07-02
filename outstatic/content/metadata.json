@@ -1,6 +1,6 @@
 {
-  "commit": "cb5231ecac00c67fc22ab649d0600fe01fef9bd9",
-  "generated": "2024-04-04T05:53:50.285Z",
+  "commit": "d6bca2cc2edefd85798a21644a292a3cb1d77388",
+  "generated": "2024-07-01T21:15:18.462Z",
   "metadata": [
     {
       "__outstatic": {
@@ -172,6 +172,24 @@
       "slug": "flutter-br",
       "status": "published",
       "title": "Flutter BR"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6bca2cc2edefd85798a21644a292a3cb1d77388",
+        "hash": "2872215910",
+        "path": "outstatic/content/pages/teste-do-cms.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-01T20:56:34.752Z",
+      "slug": "teste-do-cms",
+      "status": "published",
+      "title": "Teste do CMS"
     }
   ]
 }
